@@ -18,7 +18,13 @@ A SwiftUI vocabulary learning app inspired by Apple's Liquid Glass design langua
 
 ## Preview
 
-Coming soon
+## Preview
+
+<p align="center">
+  <img src="preview1.png" width="250">
+  <img src="preview2.png" width="250">
+  <img src="preview3.png" width="250">
+</p>
 
 ## Author
 
