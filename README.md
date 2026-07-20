@@ -27,9 +27,9 @@ Carry out in-depth optimization for user experience. As a heavy long-term user o
 ## Preview
 
 <p align="center">
-  <img src="home.png" width="250">
-  <img src="meaning.png" width="250">
-  <img src="saved.png" width="250">
+  <img src="preview1.png" width="250">
+  <img src="preview2.png" width="250">
+  <img src="preview3.png" width="250">
 </p>
 
 
